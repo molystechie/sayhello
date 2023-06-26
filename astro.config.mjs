@@ -8,3 +8,8 @@ export default defineConfig({
   site: 'https://molystechie.github.io',
   base:'/sayhello'
 });
+
+
+/**
+  site hosted on github: https://molystechie.github.io/sayhello
+ */
