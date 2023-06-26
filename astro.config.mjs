@@ -5,6 +5,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  site: 'https://molystechie.github.io/sayhello',
+  site: 'https://molystechie.github.io',
   base:'/sayhello'
 });
